@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.katabump8000_beep.twa",
+        "sha256_cert_fingerprints": ["D9:C0:61:D1:18:4D:64:F8:D9:66:EF:EA:2D:EA:0F:BA:5B:0A:C2:D3:6A:9B:0B:1D:C8:72:19:95:DA:3D:59:94"]
+      }
+    }]
